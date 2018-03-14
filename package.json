@@ -1,0 +1,22 @@
+{
+  "name": "sliver-bot",
+  "version": "2018.0.1",
+  "description": "Runehq SliverBot",
+  "main": "sliverBot.js",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HitoriWoB/sliver-bot.git"
+  },
+  "author": "Kelly Baillie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HitoriWoB/sliver-bot/issues"
+  },
+  "homepage": "https://github.com/HitoriWoB/sliver-bot#readme"
+}
