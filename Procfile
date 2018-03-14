@@ -1,1 +1,1 @@
-worker: node sliverBot.js
+worker: node bot.js
